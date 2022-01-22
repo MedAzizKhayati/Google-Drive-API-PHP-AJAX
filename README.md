@@ -5,6 +5,7 @@ Prerequisites
 
 * PHP 5.4 or greater with the command-line interface (CLI) and JSON extension installed
 * The Composer dependency management tool
+* Nodejs
 * A Google Cloud Platform project with the API enabled. To create a project and enable an API, refer to https://developers.google.com/workspace/guides/create-project and enable the API.
 
 Instructions
